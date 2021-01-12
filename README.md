@@ -15,3 +15,4 @@ In this paper, we use the multilevel regression with post-stratification method 
 2. Run the data cleaning scripts that we have provided in the 'scripts' folder. In order for the scripts to run correctly, ensure that the filepath and filenames in the code match with the ones on your system.
 3. Ensure that the cleaned data files from step 2 are placed in the 'output' folder in the 'data' sub-folder.
 4. In the 'output' folder, you will find the 'paper' sub-folder. Run the .Rmd file there to generate the report.
+
