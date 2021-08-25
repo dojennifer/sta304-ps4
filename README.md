@@ -1,6 +1,4 @@
-# STA304-PS4-Group-65
-
-## Forecasting the popular vote in the 2020 American presidential elections
+# Forecasting the popular vote in the 2020 American presidential elections
 In this paper, we use the multilevel regression with post-stratification method to forecast the overall popular vote of the 2020 American presidential elections. 
 
 ## Note on file structure
